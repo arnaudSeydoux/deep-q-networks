@@ -1,6 +1,7 @@
 [//]: # (Image References)
 
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent, source: Udacity"
+
 _(source from udacity: https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)_
 
 This project applies a deep Q learning agent, one of reinforcement learning technique to play a game, 
