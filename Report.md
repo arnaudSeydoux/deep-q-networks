@@ -49,5 +49,7 @@ We tuned 2 types of hyper-parameters in order to optimize agent training perform
     
 
 ## Next steps for improvements :
-    * Evolutions in DQN might improve current agent performance, like a combination of evolutions of plain vanilla dqn, gathered into a rainbow model.
-    * Modifying inputs to consider a full pixel image might as well improve performance, as more informations would be available to take decisions. In this case, neural network structure should be modified to contain convolution units to detect pattern in input image.
+
+Evolutions in DQN might improve current agent performance, like a combination of evolutions of plain vanilla dqn, gathered into a rainbow model.
+
+Modifying inputs to consider a full pixel image might as well improve performance, as more informations would be available to take decisions. In this case, neural network structure should be modified to contain convolution units to detect pattern in input image.
