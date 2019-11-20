@@ -30,6 +30,7 @@ which consists to navigate (and collect bananas!) in a large, square world.
 
 ## Reinforcement learning
 ![Trained Agent][image1]
+
 _(source from udacity: https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation)_
 
 
