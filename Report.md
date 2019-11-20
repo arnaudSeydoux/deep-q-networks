@@ -44,8 +44,7 @@ We tuned 2 types of hyper-parameters in order to optimize agent training perform
 
 
 ## Most successfull agent weights:
-    We saved pytorch agent weights into file: `successful_agent_weights.pth` at root directory.
-    For this best agent, we reach the target of a reward of 13 for less than 250 episodes.
+We saved pytorch agent weights into file: `successful_agent_weights.pth` at root directory. For this best agent, we reach the target of a reward of 13 for less than 250 episodes.
     
 
 ## Next steps for improvements :
